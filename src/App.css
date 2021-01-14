@@ -1,10 +1,3 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  font-family: 'PT Sans', sans-serif;
-}
-
 .home,
 .write,
 .sign-up {
@@ -16,17 +9,5 @@
 }
 
 .write {
-  background-position: center;
-  background-size: fill;
-  background-repeat: no-repeat;
   color: #fff;
-  font-size: 40px;
-}
-
-.sign-up {
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
 }

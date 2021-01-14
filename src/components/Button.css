@@ -47,12 +47,7 @@ button {
     cursor: pointer;
  
 }
-button.active {
-    padding-bottom: 10px;
-    border-bottom: solid 2px #6087e0;
-} 
 
- /* footer: forgot section */
  .forgot-panel {
   position: relative;
   height: 100px;
@@ -73,16 +68,9 @@ button.active {
       margin-bottom: 20px;
       background: rgba(255,255,255,.5);
   }
-  .form-group label {
-    font-family: 'Times New Roman', Times, serif;
-  }
   input.submit {
       color: rgb(7, 6, 6);
-      
-      width: 30%;
-      height: 35px;
-      border-radius: 20px;
-      background-color: rgb(243, 245, 250);
+      background-color: rgb(86, 92, 112);
   
   }
 
